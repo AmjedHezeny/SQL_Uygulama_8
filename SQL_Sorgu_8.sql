@@ -1,6 +1,6 @@
 ﻿--************* Soru 1 ****************--
 
--- Verilen siparişlerden kargo şirketleri toplam ne kadarlık ciro yapmış?
+-- Verilen siparişlerden kargo şirketleri toplam ne kadarlık ciro yapmış
 -- (Kargo Şirketi, Toplam Ciro)--
 
 SELECT Shippers.CompanyName as "Kargo Şirketi", 
